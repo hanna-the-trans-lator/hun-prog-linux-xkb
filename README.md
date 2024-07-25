@@ -20,7 +20,7 @@ Ezen cikk a Kavaliertől: https://www.kavalier.tv/blog/custom-keyboard-layout-fo
 ![image](https://github.com/user-attachments/assets/3b9ba5b6-b7b1-4b3f-a8c9-f2bd04583590)
 12. Indítsa újra a rendszert.
 13. Adja hozzá a kiosztást normálisan.
-14. 
+14. Állítsa át az "Alternatív karakterek billentyű"-t a Jobb Altra (AltGr).
 15. Kész!
 
 # A port of the Hungarian (Programmers) keyboard layout by @adopc233 from Windows to Linux (xkb).
