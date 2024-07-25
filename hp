@@ -1,3 +1,4 @@
+// Linux port of Hungarian (Programmers) Keyboard by github.com/adopc233. Port by github.com/hanna-the-trans-lator.
 default partial alphanumeric_keys modifier_keys
 xkb_symbols "latin(type4)" {
 
@@ -7,9 +8,9 @@ xkb_symbols "latin(type4)" {
     key <AE01>	{[	 1,	 exclam		]};
     key <AE02>	{[	 2,	 at		]};
     key <AE03>	{[	 3,	 numbersign	]};
-    key <AE04>  {[       4,      dollar		]};
-    key <AE05>  {[       5,      percent,	EuroSign]};
-    key <AE06>	{[	 6,	 asciicircum	]};
+    key <AE04>  {[   4,  dollar		]};
+    key <AE05>  {[   5,  percent,	EuroSign]};
+    key <AE06>	{[	 6,	 asciicircum    ]};
     key <AE07>	{[	 7,	 ampersand	]};
     key <AE08>	{[	 8,	 asterisk	]};
     key <AE09>	{[	 9,	 parenleft	]};
